@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -117,8 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
