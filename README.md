@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
@@ -165,9 +170,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
