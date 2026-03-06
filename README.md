@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
