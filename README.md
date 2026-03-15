@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Counting
 |  |
 | ------- |
