@@ -11,11 +11,11 @@ var NumArray = function(nums) {
  * @return {number}
  */
 NumArray.prototype.sumRange = function(left, right) {
-    let sum = 0;
+    let prefixSum = 0
     for(let i=left;i<=right;i++) {
-        sum += this.arr[i]
+        prefixSum += this.arr[i]
     }
-    return sum
+    return prefixSum
 };
 
 /** 
