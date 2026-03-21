@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Divide and Conquer
 |  |
