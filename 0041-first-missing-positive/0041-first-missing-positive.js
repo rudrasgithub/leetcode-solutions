@@ -7,8 +7,8 @@ var firstMissingPositive = function(arr) {
 
     let i=0;
     while(i<n) {
-        let correctIndex = arr[i] - 1
-        if(arr[i] !== arr[correctIndex])
+        let correctIndex = arr[i] - 1;
+        if(arr[i] > 0 && arr[i] <= n && arr[i] !== arr[correctIndex])
             [arr[i], arr[correctIndex]] = [arr[correctIndex], arr[i]]
         else
             i++;
