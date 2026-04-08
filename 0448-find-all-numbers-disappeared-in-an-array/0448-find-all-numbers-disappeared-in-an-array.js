@@ -3,22 +3,18 @@
  * @return {number[]}
  */
 var findDisappearedNumbers = function(arr) {
-    let i=0;
     let n = arr.length;
     
-    while(i < n) {
-        let correctIndex = arr[i] - 1;
-
-        if(arr[i] !== arr[correctIndex]) 
-            [arr[i], arr[correctIndex]] = [arr[correctIndex], arr[i]]
-        else
-            i++;
+    for(let i=0;i<n;i++) {
+        let index = Math.abs(arr[i]) - 1
+        if(arr[index] > 0)
+            arr[index] *= -1
     }
 
     let res = []
 
     for(let i=0;i<n;i++) {
-        if(arr[i] !== i+1)
+        if(arr[i] > 0)
             res.push(i+1)
     }
 
