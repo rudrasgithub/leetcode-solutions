@@ -5,11 +5,11 @@
 var missingNumber = function(arr) {
     let i=0;
     let n = arr.length;
-    
+
     while(i<n) {
         let correctIndex = arr[i]
 
-        if(arr[i] !== arr[correctIndex]) 
+        if(arr[i] < n && arr[i] !== arr[correctIndex]) 
             [arr[i], arr[correctIndex]] = [arr[correctIndex], arr[i]]
         else
             i++
