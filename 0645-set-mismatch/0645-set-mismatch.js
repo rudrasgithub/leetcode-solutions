@@ -3,16 +3,7 @@
  * @return {number[]}
  */
 var findErrorNums = function(arr) {
-    let s = new Set();
     let n = arr.length;
-    let res = []
-
-    for(let i=0;i<n;i++) {
-        if(s.has(arr[i]))
-            res.push(arr[i])
-        else
-            s.add(arr[i])
-    }
 
     let i=0;
     while(i<n) {
@@ -22,11 +13,9 @@ var findErrorNums = function(arr) {
         else
             i++;
     }
-    
+
     for(let i=0;i<n;i++) {
         if(arr[i] !== i+1)
-            res.push(i+1)
+            return [arr[i], i+1]
     }
-
-    return res;
 };
