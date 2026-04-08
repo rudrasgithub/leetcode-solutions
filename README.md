@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sliding Window
@@ -290,5 +293,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
