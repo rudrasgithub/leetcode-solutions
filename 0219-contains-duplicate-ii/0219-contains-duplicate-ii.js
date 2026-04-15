@@ -1,0 +1,20 @@
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {boolean}
+ */
+var containsNearbyDuplicate = function(nums, k) {
+    let s = new Set();
+
+    for(let i=0;i<nums.length;i++) {
+        if(s.has(nums[i]))
+            return true;
+        
+        s.add(nums[i])
+        if(s.size > k) {
+            s.delete(nums[i-k])
+        }
+    }
+
+    return false
+};
