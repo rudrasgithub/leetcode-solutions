@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1200-minimum-absolute-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sliding Window
 |  |
 | ------- |
