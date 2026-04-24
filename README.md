@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Divide and Conquer
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [2833-furthest-point-from-origin](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
