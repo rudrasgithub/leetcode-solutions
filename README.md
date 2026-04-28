@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Number Theory
 |  |
