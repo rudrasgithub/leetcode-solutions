@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
