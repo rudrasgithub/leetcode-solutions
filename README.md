@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2615-sum-of-distances](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Tree
 |  |
 | ------- |
