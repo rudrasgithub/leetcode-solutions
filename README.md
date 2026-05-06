@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2615-sum-of-distances](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
