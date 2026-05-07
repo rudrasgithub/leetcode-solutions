@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3407-substring-matching-pattern](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0796-rotate-string) |
+| [3407-substring-matching-pattern](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
