@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -380,5 +381,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
