@@ -8,18 +8,20 @@ class Solution:
             graph[u].append(v)
             graph[v].append(u)
             
-        queue = deque([source])
+        
         visited = set([source])
 
-        while queue:
-            node = queue.popleft()
-
+        def dfs(node):
             if node == destination:
                 return True
 
+            visited.add(node)
+
             for neighbor in graph[node]:
                 if neighbor not in visited:
-                    visited.add(neighbor)
-                    queue.append(neighbor)
+                    if dfs(neighbor):
+                        return True
+        
+            return False
 
-        return False
+        return dfs(source)
