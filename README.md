@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Counting
