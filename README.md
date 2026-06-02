@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
