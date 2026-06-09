@@ -1,18 +1,32 @@
+/**
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+
+
 var canPartition = function(nums) {
-    let sum = nums.reduce((a, b) => a + b, 0);
+    let totalSum = nums.reduce((s, ele) => s + ele, 0)
 
-    if (sum % 2 !== 0) return false;
+    if(totalSum % 2 !== 0) return false;
 
-    let target = sum / 2;
+    let target = totalSum / 2;
 
-    let dp = new Array(target + 1).fill(false);
-    dp[0] = true;
+    function partition(ind, nums, target, dp) {
+        if(target === 0) return true;
 
-    for (let num of nums) {
-        for (let j = target; j >= num; j--) {
-            dp[j] = dp[j] || dp[j - num];
-        }
+        if(ind === 0) return (nums[0] === target);
+
+        if(dp[ind][target] !== -1) return dp[ind][target]
+
+        let notTake = partition(ind - 1, nums, target, dp);
+
+        let take = false;
+        if(nums[ind] <= target) 
+            take = partition(ind - 1, nums, target - nums[ind], dp);
+
+        return dp[ind][target] = take || notTake
     }
 
-    return dp[target];
+    const dp = Array.from({ length: nums.length }, () => Array(target + 1).fill(-1))
+    return partition(nums.length - 1, nums, target, dp);
 };
