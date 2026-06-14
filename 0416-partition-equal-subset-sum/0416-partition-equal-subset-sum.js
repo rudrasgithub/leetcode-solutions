@@ -3,7 +3,6 @@
  * @return {boolean}
  */
 
-
 var canPartition = function(nums) {
     const n = nums.length
     let totalSum = nums.reduce((s, ele) => s + ele, 0)
@@ -12,22 +11,26 @@ var canPartition = function(nums) {
 
     let target = totalSum / 2;
 
-    const dp = Array.from({ length: n }, () => Array(target + 1).fill(false))
+    let prev = Array(target + 1).fill(false)
 
-    for(let i=0;i<n;i++) dp[i][0] = true;
-    if(target >= nums[0]) dp[0][nums[0]] = true;
-
+    prev[0] = true
+    prev[nums[0]] = true
+    
     for(let ind=1;ind<n;ind++) {
-        for(let sum=1;sum<=target;sum++) {
-            let notTake = dp[ind-1][sum]
+        let curr = Array(target + 1).fill(false)
+        curr[0] = true
+
+        for(let sum=0;sum<=target;sum++) {
+            let notTake = prev[sum]
 
             let take = false;
             if(nums[ind] <= sum) 
-                take = dp[ind-1][sum-nums[ind]]
+                take = prev[sum-nums[ind]]
 
-            dp[ind][sum] = take || notTake
+            curr[sum] = take || notTake
         }
+        prev = curr;
     }
 
-    return dp[n-1][target]
+    return prev[target]
 };
