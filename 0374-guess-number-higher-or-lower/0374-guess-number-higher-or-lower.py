@@ -7,7 +7,7 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
-        low = 0
+        low = 1
         high = n
 
         while low <= high:
@@ -20,5 +20,3 @@ class Solution:
                 high = mid - 1
             else:
                 low = mid + 1
-
-        return high
