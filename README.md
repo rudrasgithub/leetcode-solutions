@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0322-coin-change) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
