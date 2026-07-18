@@ -3,7 +3,6 @@ class Solution:
         window_whites = sum(i == "W" for i in blocks[:k])
         min_opr = window_whites
 
-        l = 0
         n = len(blocks)
         
         for i in range(k, n):
