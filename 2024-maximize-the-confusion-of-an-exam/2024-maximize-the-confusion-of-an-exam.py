@@ -1,20 +1,17 @@
 class Solution:
     def maxConsecutiveAnswers(self, answerKey: str, k: int) -> int:
-        def maxConsecutiveKeys(n, answerKey, key, k):
-            l = 0
-            maxLen = 0
-            window_keys = 0
-
-            for r in range(n):
-                window_keys += (answerKey[r] == key)
-
-                while window_keys > k:
-                    window_keys -= (answerKey[l] == key)
-                    l += 1
-
-                maxLen = max(maxLen, r - l + 1)
-            
-            return maxLen
         n = len(answerKey)
+        l = 0
+        maxLen = 0
+        count = {'T': 0, 'F': 0}
 
-        return max(maxConsecutiveKeys(n, answerKey, 'T', k), maxConsecutiveKeys(n, answerKey, 'F', k))
+        for r in range(n):
+            count[answerKey[r]] += 1
+
+            while min(count['T'], count['F']) > k:
+                count[answerKey[l]] -= 1
+                l += 1
+
+            maxLen = max(maxLen, r - l + 1)
+        
+        return maxLen
