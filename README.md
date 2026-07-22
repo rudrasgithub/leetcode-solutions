@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0904-fruit-into-baskets](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rudrasgithub/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rudrasgithub/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
